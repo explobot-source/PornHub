@@ -14,11 +14,10 @@ async def _(event):
         s_help_string = borg._plugins[splugin_name].__doc__
     else:
         s_help_string = "****:"
-    help_string = """@UniBorg ( **Custom Built By** @r4v4n4 ) \n**Verified Account**: ✅\n**Official Website**: https://ravanaisdrunk.site.live\n
-Pithun {}
+    help_string = """@UniBorg but modded"""
 Talethrun {}
  
-**Custom Built Fork**: https://github.com/ravana69/PornHub""".format(
+**bananas""".format(
         sys.version,
         __version__
     )
