@@ -40,6 +40,9 @@ async def _(event):
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DED",
+            "(￣ー￣) DED",
+            "(￣ー￣) DED",
+            "(￣ー￣) DED SOO DED",
             "**Target killed successfully (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
         ]
 
